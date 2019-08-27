@@ -16,4 +16,4 @@ function logWhisper(string) {
   console.log(spy)
 }
 
-function 
+function sayHiToGrandma(string)
