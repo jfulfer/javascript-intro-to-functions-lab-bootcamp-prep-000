@@ -16,4 +16,8 @@ function logWhisper(string) {
   console.log(spy)
 }
 
-function sayHiToGrandma(string)
+function sayHiToGrandma(string) {
+  if (string == string.toUpperCase()) {
+    return ""
+  }
+}
