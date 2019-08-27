@@ -7,5 +7,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  const spy = spy
+  const spy = string.toUpperCase()
+  console.log(spy)
 }
